@@ -1,0 +1,2 @@
+#pseudocodes for algorithms
+#simple.
