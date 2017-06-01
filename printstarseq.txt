@@ -1,0 +1,6 @@
+#print star *
+            **
+			***
+loop row
+loop column <=row
+print *
